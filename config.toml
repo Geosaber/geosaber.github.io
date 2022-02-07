@@ -1,4 +1,4 @@
-baseURL = "https://grass.osgeo.org/"
+baseURL = "https://geosaber.github.io"
 theme = "grass"
 
 [params]
